@@ -1,0 +1,2 @@
+# PMCD
+This is an android application that allows users to know the description about a particular medicine .The user can also get to know what dose he needs to take for a particular medicine. The application will also give precautions for the medicines. This application will be a helpful for identifying a medicine and giving the user relevant information about it.This application is works on any android device and its database is implemented using SQLite . This is an application offline application.
